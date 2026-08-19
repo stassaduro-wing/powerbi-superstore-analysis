@@ -2,7 +2,7 @@
 
 
 
-End-to-end BI solution built in 2 days. Expanding stack from Tableau to Power BI.
+End-to-end BI solution. Expanding stack from Tableau to Power BI.
 
 
 
