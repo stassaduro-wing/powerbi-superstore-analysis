@@ -1,6 +1,6 @@
 # E-Commerce Executive Dashboard (Power BI)
 
-> End-to-end BI solution built on the [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-sales-dataset).  
+> End-to-end BI solution built on the [Superstore Sales Dataset](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset).  
 > First independent project transitioning from Tableau to Power BI stack.
 
 ---
@@ -104,7 +104,7 @@ DISTINCTCOUNT('df'[product_name])
 
 | Executive Summary (Page 1) | Drill-Through Product Analysis (Page 2) |
 |:--:|:--:|
-| ![Page 1](screenshots/page1_executive_summary.png) | ![Page 2](screenshots/page2_drillthrough.png) |
+| ![Page 1](screenshots/page1.png) | ![Page 2](screenshots/page2.png) |
 
 ---
 
@@ -123,7 +123,7 @@ This project was built as part of a transition from Tableau to Power BI. Key ski
 
 ## 📄 License
 
-Dataset: [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-sales-dataset)  
+Dataset: [Superstore Sales Dataset](https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset)  
 Project: Personal portfolio use.
 
 ---
